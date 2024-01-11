@@ -102,7 +102,7 @@ showImagesFromFolder("images_2D_oAF_oE_cali")
 
 
     
-![png](output_5_0.png)
+![png](images_out/image_5_0.png)
     
 
 
@@ -113,7 +113,7 @@ showImagesFromFolder('images_2D_oAF_oE_Pakete')
 
 
     
-![png](output_6_0.png)
+![png](images_out/image_6_0.png)
     
 
 
@@ -242,7 +242,7 @@ plt.show()
 
 
     
-![png](output_13_1.png)
+![png](images_out/image_13_1.png)
     
 
 
@@ -325,19 +325,19 @@ width, height = get_Edge_Lenght_2D(prepared_image_gray, draw_Final=True, draw_Bi
 
 
     
-![png](output_18_0.png)
+![png](images_out/image_18_0.png)
     
 
 
 
     
-![png](output_18_1.png)
+![png](images_out/image_18_1.png)
     
 
 
 
     
-![png](output_18_2.png)
+![png](images_out/image_18_2.png)
     
 
 
@@ -348,7 +348,7 @@ width, height = get_Edge_Lenght_2D(prepared_image_gray, draw_Final=True, draw_Bi
 
 
     
-![png](output_18_4.png)
+![png](images_out/image_18_4.png)
     
 
 
@@ -400,13 +400,13 @@ len_1cm_mean = get_Orange_Square_Lenght_2D(prepared_image_rgb)
 
 
     
-![png](output_20_0.png)
+![png](images_out/image_20_0.png)
     
 
 
 
     
-![png](output_20_1.png)
+![png](images_out/image_20_1.png)
     
 
 
@@ -416,7 +416,7 @@ len_1cm_mean = get_Orange_Square_Lenght_2D(prepared_image_rgb)
 
 
     
-![png](output_20_3.png)
+![png](images_out/image_20_3.png)
     
 
 
@@ -454,13 +454,13 @@ plt.show()
 
 
     
-![png](output_23_0.png)
+![png](images_out/image_23_0.png)
     
 
 
 
     
-![png](output_23_1.png)
+![png](images_out/image_23_1.png)
     
 
 
@@ -470,7 +470,7 @@ plt.show()
 
 
     
-![png](output_23_3.png)
+![png](images_out/image_23_3.png)
     
 
 
@@ -569,19 +569,19 @@ print(height_mean, length_mean, depth_mean)
 
 
     
-![png](output_28_0.png)
+![png](images_out/image_28_0.png)
     
 
 
 
     
-![png](output_28_1.png)
+![png](images_out/image_28_1.png)
     
 
 
 
     
-![png](output_28_2.png)
+![png](images_out/image_28_2.png)
     
 
 
@@ -595,7 +595,7 @@ print(height_mean, length_mean, depth_mean)
 
 
     
-![png](output_28_4.png)
+![png](images_out/image_28_4.png)
     
 
 
@@ -658,7 +658,7 @@ print(f'Kantenlänge (Tiefe): {depth_cm_3D:.2f} cm')
 
 
     
-![png](output_30_0.png)
+![png](images_out/image_30_0.png)
     
 
 
